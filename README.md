@@ -1,4 +1,9 @@
-### Hi there 👋
+## next osu
+### An ambitious try to make another osu client with the following advantages:
+* C/C++ (and Rust maybe) -> better performance
+* Better song/beatmap database abstraction and managing
+* Boosted input system
+* Module structure
 
 <!--
 **nextosu/nextosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
